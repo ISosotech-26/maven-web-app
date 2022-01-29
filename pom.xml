@@ -101,19 +101,20 @@
 	</dependencies>
 	
 	
-	<distributionManagement>
+	<distrib
+	  
 	  
 		<repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.206.201.89:8081/repository/td-web-app-releases/</url>
+	      <url>http://3.80.146.61:5000/repository/ebay-c/</url>
 	    </repository>    		
 
 		
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.206.201.89:8081/repository/td-web-app-snapshots/</url>
+	      <url>http://3.80.146.61:5000/repository/ebay-ci/</url>
 	     </snapshotRepository>	
 		
 	</distributionManagement>
